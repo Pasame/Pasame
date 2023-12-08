@@ -1,8 +1,8 @@
 
   ### Hi there 👋
   
-  # Skills
-  ## Languages
+  ## Skills
+  ### Languages
   <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
@@ -19,7 +19,7 @@
   </p>
   
   * * *
-   ## Tools
+   ### Tools
    <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
@@ -34,7 +34,7 @@
    </p>
    
   * * *
-  ## OS
+  ### OS
   <p align="center">
   <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -44,7 +44,7 @@
   </p>
   
   * * *
-  # Contact
+  ## Contact
   <p align="center">
   <a href="https://www.instagram.com/pasame_253/" target="_blank"><img src="https://img.shields.io/badge/pasame__253-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://twitter.com/pasame_" target="_blank"><img src="https://img.shields.io/badge/Pasame__-000000?style=flat&logo=X&logoColor=white"/></a>
