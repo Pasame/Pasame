@@ -20,9 +20,15 @@
   * * *
    ## Tools
    <p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/ARMKeil-394049?style=flat&logo=ARM keil&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMWare-607078?style=flat&logo=VMWare&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARMKeil-394049?style=flat&logo=ARM keil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
    </p>
    
