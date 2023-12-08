@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=CSharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <br> <br>
-  <img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=ARM&logoColor=white"/>
@@ -31,7 +31,7 @@
   <p align="center">
   <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=Windows 11&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=FLAT&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white"/>
   </p>
