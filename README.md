@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=CSharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <br> <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=black"/>
